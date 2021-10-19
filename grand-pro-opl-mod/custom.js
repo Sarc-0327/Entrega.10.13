@@ -69,10 +69,10 @@ $(document).ready(function(){
 
     ${frst_loop}
 
-    <li class="nav-item nav-link api">
+    <li class="nav-item nav-link api" style="cursor: pointer;">
             API
         </li>
-    <li class="nav-item nav-link change-color">?</li>
+    <li class="nav-item nav-link change-color" style="cursor: pointer;">?</li>
         </ul>
         </div>
         </div>
@@ -81,7 +81,7 @@ $(document).ready(function(){
         <ul class="mobile-menu">
 
     ${scd_loop}
-    <li class="page-scrool api">
+    <li class="page-scrool api" style="cursor: pointer;">
             API
         </li>
     </ul>`;
